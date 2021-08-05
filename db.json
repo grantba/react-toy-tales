@@ -47,6 +47,21 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Ana and Elsa",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.ocVIOoGZN-CA0OktJQ6izAHaHa&pid=Api&P=0&w=300&h=300",
+      "id": 9
+    },
+    {
+      "name": "Belle and Beast",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.lHfDnwNLwDBNqKmBKgA1XgHaNK&pid=Api&P=0&w=300&h=300",
+      "id": 10
+    },
+    {
+      "name": "Ariel and Flounder",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.qB_lO4YB_9M-4_UvpjhK2QHaF7&pid=Api&P=0&w=212&h=170",
+      "id": 11
     }
   ]
 }
